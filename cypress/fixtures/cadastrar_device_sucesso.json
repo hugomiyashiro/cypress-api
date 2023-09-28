@@ -1,0 +1,10 @@
+{
+    "name": "Celular da Qazando",
+    "data": {
+        "year": 2023,
+        "price": 1099.99,
+        "CPU model": "Snapdragon 999",
+        "Hard disk size": "1 TB",
+        "Color": "Azul banana"
+    }
+}
